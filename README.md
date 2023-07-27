@@ -7,7 +7,7 @@ Repositório com projeto do curso de React Native
 - Run on terminal: 
   - `cd my-app`
   - `npm install`
-  - `$env:NODE_OPTIONS="--openssl-legacy-provider"; npx expo start` on Powershell
+  - `$npx expo start` on Powershell
   - or `set NODE_OPTIONS=--openssl-legacy-provider && npx expo start` on Command Prompt
 - or follow instructions on https://docs.expo.dev/get-started/create-a-new-app/ to run on emulator or any device on the same network as your pc.
 
